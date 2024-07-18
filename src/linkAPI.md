@@ -1,0 +1,1 @@
+https://6677cc900bd45250561c8c3a.mockapi.io/studentManagement

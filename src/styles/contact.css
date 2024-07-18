@@ -1,0 +1,16 @@
+.contact {
+    text-align: center;
+    padding: 30px;
+    color: black;
+    background: whitesmoke;
+    border-radius: 40px;
+    width: 420px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+.contact p {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
